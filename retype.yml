@@ -8,7 +8,7 @@ branding:
 
 favicon: /static/favicon.png
 
-
+url: https://wyming-digital.github.io/uk.co.wymingdigital.docs/
 nav:
   - text: Home
     link: /
@@ -28,9 +28,9 @@ edit:
   branch: main
 
 theme:
-  light: default
   dark: default
 
 meta:
   title: " - Wyming Digital Docs"
+
   description: Official documentation for Wyming Digital projects
