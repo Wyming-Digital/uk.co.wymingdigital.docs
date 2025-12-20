@@ -1,0 +1,36 @@
+input: docs
+output: .retype
+
+branding:
+  title: Wyming Digital 
+  label: Docs
+  logo:  /static/favicon.png
+
+favicon: /static/favicon.png
+
+
+nav:
+  - text: Home
+    link: /
+  - text: Product Guides
+    link: /docs/guides/
+  - text: FAQ
+    link: /faq/
+
+sidebar:
+  collapsed: false
+
+footer:
+  copyright: "&copy; {{ year }} Wyming Digital. All rights reserved."
+
+edit: 
+  repo: https://github.com/Wyming-Digital/uk.co.wymingdigital.docs
+  branch: main
+
+theme:
+  light: default
+  dark: default
+
+meta:
+  title: " - Wyming Digital Docs"
+  description: Official documentation for Wyming Digital projects
