@@ -5,7 +5,7 @@ early stage of development and we wouldn't advise you even bother visiting this 
 but if you decide to anyway then enjoy :)
 
 ## 🌐 Live Demo
-Check it out here: [Experimental Site]([https://www.wymingdigital.co.uk](https://wyming-digital.github.io/uk.co.wymingdigital.docs/))
+Check it out here: [Experimental Site](https://www.wymingdigital.co.uk](https://wyming-digital.github.io/uk.co.wymingdigital.docs/)
 
 ## ⚠️ Notice
 This repository is for **reference only**. You may view the code, but it **remains the intellectual property of the authors**.  
